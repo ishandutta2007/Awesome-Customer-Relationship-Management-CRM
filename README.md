@@ -1,46 +1,55 @@
-# Awesome-Customer-Relationship-Management-CRM
+# Awesome Customer Relationship Management (CRM) 🚀
 
-## Top Customer Relationship Management (CRM) Ecosystem
+<div align="center">
 
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM">
+  <img src="assets/banner.svg" alt="Awesome CRM Ecosystem Banner" width="100%" />
+</a>
 
+<br/><br/>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+<a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Relationship-Management-CRM?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Relationship-Management-CRM?style=social" alt="GitHub forks" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Relationship-Management-CRM" alt="Open Issues" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Customer-Relationship-Management-CRM" alt="License" /></a>
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
-*Focused on Sales Pipelines, Contact Management & Revenue Operations*  
+<br/>
 
-**Last updated: March 2026**
+**Curated directory of top-tier SaaS platforms & open-source GitHub projects for sales pipelines, contact management, RevOps, and self-hosted CRM infrastructure.**
 
+*Last updated: March 2026*
 
+</div>
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Customer Relationship Management (CRM)**. These tools help organizations manage contacts, track deals, automate sales processes, and centralize customer interactions — from startups to large enterprises.
+---
 
+## 📑 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS/Hosted Platforms](#️-saashosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🛠️ Stack Recipes: Building Custom CRM Systems](#️-stack-recipes-building-custom-crm-systems)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [📈 Star History](#-star-history)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-**Examples** include Salesforce Core CRM, HubSpot CRM, Microsoft Dynamics 365, Zoho CRM, Pipedrive, SugarCRM, Freshsales, Insightly, Copper, and Zendesk Sell (the category leaders).
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global **Customer Relationship Management (CRM)** software market is valued at approximately **$70B–$100B+** (projected to exceed **$150B by 2030** at an estimated 12% CAGR), propelled by autonomous sales workflows, customer data platforms (CDP), and agentic AI.
 
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom data models, and open CRM infrastructure — ideal for organizations seeking transparent, vendor-independent customer management.
+The sector exhibits a distinct **hybrid market dynamic**:
+- **Enterprise Concentration:** At the top tier, corporate spending is heavily concentrated among a few cloud giants (notably Salesforce and Microsoft Dynamics 365) which anchor extensive enterprise app marketplaces, multi-cloud data sync, and deep compliance frameworks.
+- **SMB & Mid-Market Fragmentation:** The middle and lower market tiers remain **moderately to highly fragmented**. Hundreds of fast-growing challengers (HubSpot, Zoho, Pipedrive, Freshsales) and customizable open-source platforms (Twenty, Odoo, ERPNext, Chatwoot) cater to flexible budgets, developer-first integrations, and data sovereignty requirements.
 
+---
 
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global Customer Relationship Management (CRM) market is estimated at approximately $70B–$100B+ (projected to exceed $150B by 2030 at ~12% CAGR), driven by sales automation, cloud migration, and AI-enabled workflows. The sector exhibits a hybrid market dynamic: it is concentrated at the enterprise top tier where a few titans (notably Salesforce and Microsoft) capture the lion's share of corporate spending, while simultaneously remaining moderately fragmented across SMB and mid-market tiers where specialized, vertical, and open-source solutions compete actively.
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS/Hosted Platforms
 
 | Platform | Description | Scale (Revenue / Valuation) | Pricing (Starting Paid Tier) | Free Tier Limits / Trial Details |
 | :--- | :--- | :--- | :--- | :--- |
@@ -55,150 +64,122 @@ The global Customer Relationship Management (CRM) market is estimated at approxi
 | **[Copper](https://www.copper.com/)** | Google Workspace-native CRM deeply integrated into Gmail, Google Calendar, and Docs. | ~$150M+ Valuation (~$30M Annual Revenue, Private) | $9/user/month (Starter tier, billed annually) | 14-day free trial; limited to 1,000 contacts during trial period |
 | **[Insightly](https://www.insightly.com/)** | Unified CRM combining pipeline management, project delivery, and workflow automation for SMBs. | ~$100M+ Valuation (~$25M Annual Revenue, Private) | $29/user/month (Plus tier, billed annually) | 14-day free trial; test all features with up to 100,000 records |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+Curated list of production-ready, open-source CRM systems for self-hosting, sorted in descending order of community popularity (**GitHub Stars**).
 
+- **[Twenty](https://github.com/twentyhq/twenty)** <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="Twenty stars"/></a>  
+  Modern open-source CRM (AGPL-3.0) engineered as an extensible alternative to Salesforce. Features customizable data models, Kanban pipeline views, GraphQL/REST APIs, workflow automation via webhooks, email/calendar sync, and role-based permissions. Y Combinator-backed, TypeScript-native, and self-hostable with Docker.
 
+- **[Odoo](https://github.com/odoo/odoo)** <a href="https://github.com/odoo/odoo/stargazers"><img src="https://img.shields.io/github/stars/odoo/odoo?style=social&color=white" alt="Odoo stars"/></a>  
+  Comprehensive open-source business and ERP suite (LGPL-3.0) with an enterprise-grade CRM module. Features visual lead pipelines, automated lead scoring, quotations, and deep interconnectivity with invoicing, inventory, and omnichannel marketing.
 
-- **[Twenty](https://github.com/twentyhq/twenty)**  
+- **[ERPNext](https://github.com/frappe/erpnext)** <a href="https://github.com/frappe/erpnext/stargazers"><img src="https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white" alt="ERPNext stars"/></a>  
+  Full-featured open-source ERP & CRM system (GPL-3.0) built on the Frappe framework (Python & JS). Includes lead and deal tracking, omnichannel communication logs, quotation generation, support ticket integration, and contract management.
 
-  Modern open-source CRM (AGPL-3.0) built as a Salesforce alternative. Features customizable data models, Kanban pipeline views, GraphQL/REST APIs, workflow automation with webhooks, email/calendar sync, and role-based permissions. Y Combinator-backed, TypeScript-native with 300+ contributors. 57k+ GitHub stars. Self-hostable via Docker or Railway .
+- **[Chatwoot](https://github.com/chatwoot/chatwoot)** <a href="https://github.com/chatwoot/chatwoot/stargazers"><img src="https://img.shields.io/github/stars/chatwoot/chatwoot?style=social&color=white" alt="Chatwoot stars"/></a>  
+  Open-source customer relationship and live engagement platform (AGPL-3.0). Bridges CRM and customer support with an omnichannel inbox across website live chat, WhatsApp, Twitter, Facebook, and email.
 
+- **[Monica](https://github.com/monicahq/monica)** <a href="https://github.com/monicahq/monica/stargazers"><img src="https://img.shields.io/github/stars/monicahq/monica?style=social&color=white" alt="Monica stars"/></a>  
+  Personal relationship management system (AGPL-3.0) for organizing social graphs, meetings, interaction logs, reminders, notes, and relationship milestones.
 
+- **[Krayin CRM](https://github.com/krayin/laravel-crm)** <a href="https://github.com/krayin/laravel-crm/stargazers"><img src="https://img.shields.io/github/stars/krayin/laravel-crm?style=social&color=white" alt="Krayin CRM stars"/></a>  
+  Free and open-source CRM (MIT) built on Laravel. Features lead management, customizable Kanban boards, activity tracking, custom attributes, and multi-currency/multi-channel support.
 
-- **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)**  
+- **[Dolibarr](https://github.com/Dolibarr/dolibarr)** <a href="https://github.com/Dolibarr/dolibarr/stargazers"><img src="https://img.shields.io/github/stars/Dolibarr/dolibarr?style=social&color=white" alt="Dolibarr stars"/></a>  
+  Modular open-source ERP and CRM system (GPL-3.0) tailored for SMEs, freelancers, and foundations. Features contacts, leads, business opportunities, quotes, invoices, and payment tracking.
 
-  Award-winning enterprise-class open-source CRM (AGPL-3.0). Successor to SugarCRM Community Edition. Features workflow automation, reporting, security suite, and extensive plugin ecosystem. Large user base but legacy codebase and dated UI .
+- **[SuiteCRM](https://github.com/SuiteCRM/SuiteCRM)** <a href="https://github.com/SuiteCRM/SuiteCRM/stargazers"><img src="https://img.shields.io/github/stars/SuiteCRM/SuiteCRM?style=social&color=white" alt="SuiteCRM stars"/></a>  
+  Enterprise-grade open-source CRM application (AGPL-3.0) and successor to SugarCRM Community Edition. Includes workflow automation, quotes, contracts, case management, reporting, and a vast ecosystem of community add-ons.
 
+- **[EspoCRM](https://github.com/espocrm/espocrm)** <a href="https://github.com/espocrm/espocrm/stargazers"><img src="https://img.shields.io/github/stars/espocrm/espocrm?style=social&color=white" alt="EspoCRM stars"/></a>  
+  Fast, lightweight Single Page Application (SPA) CRM with REST API (AGPL-3.0). Offers responsive layout, granular access control, calendar scheduling, email synchronisation, and workflow rules.
 
+- **[DaybydayCRM](https://github.com/Bottelet/DaybydayCRM)** <a href="https://github.com/Bottelet/DaybydayCRM/stargazers"><img src="https://img.shields.io/github/stars/Bottelet/DaybydayCRM?style=social&color=white" alt="DaybydayCRM stars"/></a>  
+  Clean and intuitive CRM (MIT) crafted with Laravel and Vue.js. Assists small businesses in monitoring daily leads, client activities, and project-linked tasks.
 
-- **[EspoCRM](https://github.com/espocrm/espocrm)**  
+- **[Corteza](https://github.com/cortezaproject/corteza)** <a href="https://github.com/cortezaproject/corteza/stargazers"><img src="https://img.shields.io/github/stars/cortezaproject/corteza?style=social&color=white" alt="Corteza stars"/></a>  
+  100% open-source low-code platform (Apache-2.0) for architecting custom CRM systems and business applications. Features a drag-and-drop record builder, BPMN workflow automation, granular RBAC, and full REST API coverage.
 
-  CRM with SPA frontend and REST API (AGPL-3.0). Features intuitive interface, powerful in-app administration, roles manager, audit log, email sync, and fine-grained access control. Lightweight and performance-focused .
+- **[YetiForce](https://github.com/YetiForceCompany/YetiForceCRM)** <a href="https://github.com/YetiForceCompany/YetiForceCRM/stargazers"><img src="https://img.shields.io/github/stars/YetiForceCompany/YetiForceCRM?style=social&color=white" alt="YetiForce stars"/></a>  
+  Feature-dense open-source CRM (GPL-3.0) packing 100+ native modules for marketing, sales velocity, helpdesk ticketing, and compliance audits.
 
+- **[CiviCRM](https://github.com/civicrm/civicrm-core)** <a href="https://github.com/civicrm/civicrm-core/stargazers"><img src="https://img.shields.io/github/stars/civicrm/civicrm-core?style=social&color=white" alt="CiviCRM stars"/></a>  
+  Constituent relationship management system (AGPL-3.0) purpose-built for non-profits, associations, advocacy organizations, and civic movements.
 
+- **[Rock RMS](https://github.com/SparkDevNetwork/Rock)** <a href="https://github.com/SparkDevNetwork/Rock/stargazers"><img src="https://img.shields.io/github/stars/SparkDevNetwork/Rock?style=social&color=white" alt="Rock RMS stars"/></a>  
+  Open-source relationship management system (Apache-2.0) specialized for churches, faith organizations, and community volunteer groups.
 
-- **[Krayin](https://github.com/krayin/laravel-crm)**  
+- **[OroCRM](https://github.com/oroinc/crm)** <a href="https://github.com/oroinc/crm/stargazers"><img src="https://img.shields.io/github/stars/oroinc/crm?style=social&color=white" alt="OroCRM stars"/></a>  
+  Flexible open-source CRM (OSL-3.0) built on Symfony for multi-channel commerce businesses. Features 360-degree customer views, marketing campaign management, and e-commerce platform connectors.
 
-  Laravel-based open-source CRM (MIT) for SMEs and enterprises. Features lead and pipeline management with Kanban boards, contact and organization management, activity tracking, quotations, product catalog, email integration, workflow automation, REST API with webhooks, AI lead extraction from PDFs, and role-based access control. 22.1k+ GitHub stars. One-click deployable on Railway .
+- **[Django-CRM](https://github.com/DjangoCRM/django-crm)** <a href="https://github.com/DjangoCRM/django-crm/stargazers"><img src="https://img.shields.io/github/stars/DjangoCRM/django-crm?style=social&color=white" alt="Django-CRM stars"/></a>  
+  Open-source analytical CRM (AGPL-3.0) powered by Django. Provides task planning, contacts management, visual sales pipelines, and email marketing.
 
+- **[CustomerMates](https://github.com/customermates/customermates)** <a href="https://github.com/customermates/customermates/stargazers"><img src="https://img.shields.io/github/stars/customermates/customermates?style=social&color=white" alt="CustomerMates stars"/></a>  
+  Open-core CRM with an AGPL-3.0 core, featuring Model Context Protocol (MCP) support, REST APIs, and native n8n automation connectivity.
 
+- **[Horilla CRM](https://github.com/horilla/horilla-crm)** <a href="https://github.com/horilla/horilla-crm/stargazers"><img src="https://img.shields.io/github/stars/horilla/horilla-crm?style=social&color=white" alt="Horilla CRM stars"/></a>  
+  Open-source CRM software (LGPL-2.1+) built with Python and Django. Features deal management, webhook-triggered integrations, and multilingual interfaces.
 
-- **[Frappe CRM](https://github.com/frappe/crm)**  
-
-  Fully featured, modern open-source CRM (AGPL-3.0) built on the Frappe Framework. Features deal pipelines, contact management, email integration, and workflow automation. Part of the larger Frappe/ERPNext ecosystem .
-
-
-
-- **[ERPNext](https://github.com/frappe/erpnext)**  
-
-  All-in-one open-source ERP (GPL-3.0) with robust CRM capabilities. Features leads, opportunities, quotations, sales orders, and customer management integrated with accounting, inventory, and manufacturing. 30k+ GitHub stars .
-
-
-
-- **[Dolibarr](https://github.com/Dolibarr/dolibarr)**  
-
-  Modular open-source ERP and CRM (GPL-3.0) for SMEs. Features contacts, leads, opportunities, quotations, invoices, and project management. Highly modular with extensive community modules .
-
-
-
-- **[Odoo](https://github.com/odoo/odoo)**  
-
-  Open-source business suite (LGPL-3.0) with comprehensive CRM module. Features sales pipeline, lead scoring, quotations, and integration with inventory, accounting, and marketing. Large ecosystem with both free Community and paid Enterprise editions .
-
-
-
-- **[Corteza](https://github.com/cortezaproject/corteza)**  
-
-  Open-source low-code platform (Apache-2.0) for building CRM, business process, and structured data applications. Features visual application builder, BPMN-style workflow engine, granular RBAC, and REST API everywhere .
-
-
-
-- **[OroCRM](https://github.com/oroinc/crm)**  
-
-  Flexible open-source CRM (OSL-3.0) built on Symfony. Features marketing, sales, and customer service modules with strong e-commerce integration. Modular architecture for custom business requirements .
-
-
-
-- **[YetiForce](https://github.com/YetiForceCompany/YetiForceCRM)**  
-
-  Feature-rich open-source CRM (GPL-3.0) with 100+ built-in modules. Comprehensive functionality for sales, marketing, and support .
-
-
-
-- **[Django-CRM](https://github.com/DjangoCRM/django-crm)**  
-
-  Analytical CRM (AGPL-3.0) with task management, email marketing, and sales pipeline. Built for startups and individual use with easy customization .
-
-
-
-- **[Monica](https://github.com/monicahq/monica)**  
-
-  Personal relationship manager and CRM (AGPL-3.0) for organizing interactions with friends and family. Features reminders, notes, and activity tracking .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[BottleCRM](https://github.com/MicroPyramid/opensource-startup-crm)** — Modern multi-tenant CRM (MIT) built with SvelteKit and PostgreSQL. Features lead management, case management, tasks, quotes, and Trello-like boards .
-
-- **[Horilla CRM](https://github.com/horilla/horilla-crm)** — Free open-source CRM (LGPL-2.1+) built on Django. Features lead management, pipeline, REST API with webhooks, and multi-language support .
-
-- **[DaybydayCRM](https://github.com/Bottelet/DaybydayCRM)** — Lightweight CRM (MIT) for tracking daily workflow with leads, tasks, and clients.
-
-- **[NextCRM](https://github.com/peterknezek/nextcrm)** — CRM built with Next.js featuring projects, invoicing, documents, and AI features .
-
-- **[Warpdrive](https://github.com/warp-drive-dev/warpdrive)** — Self-hosted business-development CRM reimplementing Pipedrive's pipeline and deal workspace .
-
-- **[Customermates](https://github.com/customermates/customermates)** — Open-core CRM with AGPL core, MCP, REST, and n8n integration .
-
-- **[Rock RMS](https://github.com/SparkDevNetwork/Rock)** — Open-source relationship management for churches (Apache-2.0) with CRM capabilities .
-
-- **[CiviCRM](https://github.com/civicrm/civicrm-core)** — Nonprofit-focused CRM (AGPL-3.0) for donor and constituent management .
-
-
-
-**Frameworks for building custom systems**: Combine **Twenty** or **Krayin** as the CRM backend with **n8n** for workflow automation, **Corteza** for low-code customization, and **PostgreSQL** for data persistence — creating a fully self-hosted, enterprise-grade CRM platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- CRM systems handling customer data must comply with data protection regulations (GDPR, CCPA, HIPAA, etc.).
-
-- Self-hosted open-source solutions require proper security hardening, ongoing maintenance, and technical expertise. Total cost of ownership may exceed initial savings when accounting for developer time and infrastructure .
-
-
+- **[BottleCRM](https://github.com/MicroPyramid/opensource-startup-crm)** <a href="https://github.com/MicroPyramid/opensource-startup-crm/stargazers"><img src="https://img.shields.io/github/stars/MicroPyramid/opensource-startup-crm?style=social&color=white" alt="BottleCRM stars"/></a>  
+  Modern multi-tenant CRM (MIT) crafted with SvelteKit, Django, and PostgreSQL for startups managing cases, deals, and tasks.
 
 ---
 
+## 🛠️ Stack Recipes: Building Custom CRM Systems
 
+For software teams building tailor-made, vendor-independent CRM solutions:
+* **Core Backend & Data Layer:** Combine **Twenty** (or **Krayin**) with **PostgreSQL** for clean relational schemas and GraphQL/REST APIs.
+* **Low-Code Customization:** Leverage **Corteza** for rapid drag-and-drop schema additions and BPMN workflow routines.
+* **Automation & Webhooks:** Integrate **n8n** or **Temporal** to synchronize data between lead capture forms, Slack, and billing engines.
+* **Omnichannel Communication:** Connect **Chatwoot** for centralizing incoming email and chat messages directly into customer histories.
 
-**Made for sales teams, RevOps professionals, and developers building transparent CRM solutions.**  
+---
 
-Let's make Customer Relationship Management more open, data-driven, and efficient.
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help make this the most complete and up-to-date CRM directory on GitHub:
+
+1. 🍴 **Fork the repo**.
+2. 🌿 **Create a branch** (`git checkout -b feature/add-new-crm`).
+3. 📝 **Add or update an entry** in `README.md` following the established table/list formats.
+4. ✨ **Ensure descriptions are factual** and link directly to official project repositories or websites.
+5. 🚀 **Submit a Pull Request** with a concise description of your additions.
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated CRM directory helped you evaluate software, choose your stack, or build a customer management solution, consider supporting the maintenance and ongoing curation:
+
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork and share** with your sales, RevOps, and engineering networks.
+- ☕ **Sponsor or buy a coffee**: [**Support on GitHub Sponsors**](https://github.com/sponsors/ishandutta2007)
+
+Thank you to all contributors, maintainers, and community members! 🙌
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Customer-Relationship-Management-CRM&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Customer-Relationship-Management-CRM&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a community-curated educational index — inclusion does not constitute a commercial endorsement.
+- CRM systems handling personal data must comply with international privacy legislation (such as GDPR, CCPA, and HIPAA).
+- Self-hosted solutions require regular security patching, isolated backups, and ongoing infrastructure maintenance. Total cost of ownership (TCO) should consider engineering and operational overhead.
+
+---
+
+<div align="center">
+
+**Crafted for Sales Leaders, RevOps Professionals, and Developers building open customer infrastructure.**  
+*Let's make Customer Relationship Management more accessible, data-driven, and transparent.*
+
+</div>
