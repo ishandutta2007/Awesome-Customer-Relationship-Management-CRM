@@ -30,77 +30,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Customer Relationship Management (CRM) market is estimated at approximately $70B–$100B+ (projected to exceed $150B by 2030 at ~12% CAGR), driven by sales automation, cloud migration, and AI-enabled workflows. The sector exhibits a hybrid market dynamic: it is concentrated at the enterprise top tier where a few titans (notably Salesforce and Microsoft) capture the lion's share of corporate spending, while simultaneously remaining moderately fragmented across SMB and mid-market tiers where specialized, vertical, and open-source solutions compete actively.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Core CRM](https://www.salesforce.com/)**  
-
-  The world's leading CRM platform with Sales Cloud, Service Cloud, and extensive customization. Features Einstein AI, Flow automation, and an enormous AppExchange ecosystem.
-
-
-
-- **[HubSpot CRM](https://www.hubspot.com/)**  
-
-  Free-to-start CRM with marketing, sales, and service hubs. Known for ease of use, unified contact records, and strong inbound marketing integration.
-
-
-
-- **[Microsoft Dynamics 365](https://dynamics.microsoft.com/)**  
-
-  Enterprise CRM and ERP suite deeply integrated with Microsoft 365 and Power Platform. Features Copilot AI and extensive enterprise capabilities.
-
-
-
-- **[Zoho CRM](https://www.zoho.com/crm/)**  
-
-  Cost-effective CRM with sales automation, AI assistant Zia, and integration with Zoho's broader business suite.
-
-
-
-- **[Pipedrive](https://www.pipedrive.com/)**  
-
-  Sales-focused CRM built around visual pipeline management. Features activity reminders, email sync, and sales reporting.
-
-
-
-- **[SugarCRM](https://www.sugarcrm.com/)**  
-
-  Enterprise CRM with sales automation, marketing automation, and customer service. Available as Sugar Sell, Serve, and Enterprise.
-
-
-
-- **[Freshsales](https://www.freshworks.com/)**  
-
-  CRM from Freshworks with AI-powered lead scoring, built-in phone, and email. Part of the Freshworks customer engagement suite.
-
-
-
-- **[Insightly](https://www.insightly.com/)**  
-
-  CRM with project management and marketing automation. Designed for small and mid-sized businesses.
-
-
-
-- **[Copper](https://www.copper.com/)**  
-
-  Google Workspace-native CRM that works seamlessly with Gmail and Calendar. Popular with relationship-driven sales teams.
-
-
-
-- **[Zendesk Sell](https://www.zendesk.com/)**  
-
-  Sales CRM from Zendesk with pipeline management, built-in dialer, and integration with Zendesk Support.
+| Platform | Description | Scale (Revenue / Valuation) | Pricing (Starting Paid Tier) | Free Tier Limits / Trial Details |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Dynamics 365](https://dynamics.microsoft.com/)** | Enterprise CRM and ERP suite deeply integrated with Microsoft 365, Copilot AI, and Power Platform. | ~$3.1T Market Cap (~$140B+ Cloud/Biz Apps Revenue) | $65/user/month (Dynamics 365 Sales Professional) | 30-day free trial; full access to sales apps and demo data |
+| **[Salesforce Core CRM](https://www.salesforce.com/)** | The category-defining cloud CRM with Sales Cloud, Service Cloud, Flow automation, and Agentforce AI. | ~$280B Market Cap (~$38B FY2025 Revenue) | $25/user/month (Sales Cloud Starter Edition) | 30-day free trial; pre-configured lead, contact, and pipeline workflows |
+| **[HubSpot CRM](https://www.hubspot.com/)** | Inbound marketing, sales, and service platform with unified contact records and user-friendly interface. | ~$30B Market Cap (~$2.6B Annual Revenue) | $15/seat/month (Sales Hub Starter, billed annually) | Free forever plan: Up to 5 users, up to 1,000,000 contacts, deal tracking, and form capture |
+| **[Zendesk Sell](https://www.zendesk.com/)** | Sales CRM with integrated pipeline management, calling, email tracking, and Zendesk Support sync. | ~$10.2B Valuation (Acquired by Hellman & Friedman) | $19/user/month (Sell Team, billed annually) | 14-day free trial; includes full pipeline tracking, dialer, and reporting features |
+| **[Zoho CRM](https://www.zoho.com/crm/)** | Feature-rich CRM with Zia AI, workflow automation, and tight integration with the Zoho ecosystem. | ~$1B+ Annual Revenue (Bootstrapped / Private) | $14/user/month (Standard tier, billed annually) | Free forever plan: Up to 3 users, leads, contacts, accounts, and 5,000 document records |
+| **[Freshsales](https://www.freshworks.com/)** | AI-driven CRM from Freshworks with Freddy AI insights, built-in phone/email, and journey management. | ~$4B Market Cap (~$700M Annual Revenue) | $9/user/month (Growth tier, billed annually) | Free forever plan: Up to 3 users, 1,000 contacts, contact lifecycle stages, and chat support |
+| **[Pipedrive](https://www.pipedrive.com/)** | Visual sales pipeline-focused CRM designed around activity-based selling and deal velocity. | ~$1.5B Valuation (Acquired by Vista Equity Partners) | $14/user/month (Lite tier, billed annually) | 14-day free trial; full feature access without credit card required |
+| **[SugarCRM](https://www.sugarcrm.com/)** | Enterprise platform combining sales automation, customer service, and predictive analytics. | ~$500M+ Valuation (~$100M+ Annual Revenue, Private) | $49/user/month (Sugar Sell, 3-user minimum, billed annually) | 7-day free trial; access to Sugar Sell Cloud with guided sample data |
+| **[Copper](https://www.copper.com/)** | Google Workspace-native CRM deeply integrated into Gmail, Google Calendar, and Docs. | ~$150M+ Valuation (~$30M Annual Revenue, Private) | $9/user/month (Starter tier, billed annually) | 14-day free trial; limited to 1,000 contacts during trial period |
+| **[Insightly](https://www.insightly.com/)** | Unified CRM combining pipeline management, project delivery, and workflow automation for SMBs. | ~$100M+ Valuation (~$25M Annual Revenue, Private) | $29/user/month (Plus tier, billed annually) | 14-day free trial; test all features with up to 100,000 records |
 
 
 
