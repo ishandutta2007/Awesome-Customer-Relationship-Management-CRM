@@ -10,7 +10,7 @@
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
 <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-<a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Relationship-Management-CRM?style=social" alt="GitHub stars" /></a>
+<a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Customer-Relationship-Management-CRM?style=social" alt="GitHub_Stars" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Customer-Relationship-Management-CRM?style=social" alt="GitHub forks" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Customer-Relationship-Management-CRM" alt="Open Issues" /></a>
 <a href="https://github.com/ishandutta2007/Awesome-Customer-Relationship-Management-CRM/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Customer-Relationship-Management-CRM" alt="License" /></a>
@@ -68,7 +68,7 @@ The sector exhibits a distinct **hybrid market dynamic**:
 
 ## 💻 Open-Source GitHub Projects
 
-Curated list of production-ready, open-source CRM systems for self-hosting, sorted in descending order of community popularity (**GitHub Stars**).
+Curated list of production-ready, open-source CRM systems for self-hosting, sorted in descending order of community popularity (**GitHub_Stars**).
 
 - **[Twenty](https://github.com/twentyhq/twenty)** <a href="https://github.com/twentyhq/twenty/stargazers"><img src="https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white" alt="Twenty stars"/></a>  
   Modern open-source CRM (AGPL-3.0) engineered as an extensible alternative to Salesforce. Features customizable data models, Kanban pipeline views, GraphQL/REST APIs, workflow automation via webhooks, email/calendar sync, and role-based permissions. Y Combinator-backed, TypeScript-native, and self-hostable with Docker.
